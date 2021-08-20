@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bbarahona95
+- 📫 I'm studying systems engineering at Universidad Nacional of Costa Rica.
+- 👀 I’m interested in videogames, software, robotics and pizza!
+- 🌱 I’m currently learning C++, Java, JavaScript.
+- 📫 How to reach me https://www.linkedin.com/in/benbara/ https://www.facebook.com/bbarahona4895/
